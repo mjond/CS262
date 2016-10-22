@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="fetch_button_label">Fetch</string>
+    <string name="web_service_list">http://cs262.cs.calvin.edu:8089/monopoly/players</string>
+    <string name="web_service_one">http://cs262.cs.calvin.edu:8089/monopoly/player/</string>
+    <!--<string name="day_text">Day</string>-->
+    <string name="connection_error">Failed to connect to service...</string>
+    <string name="player_name">no name</string>
+    <string name="player_email">email</string>
+    <string name="player_id">000</string>
+</resources>
